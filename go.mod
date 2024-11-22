@@ -1,3 +1,3 @@
-module noise
+module github.com/Xsf57i2G/noise
 
-go 1.23.2
+go 1.22.2
